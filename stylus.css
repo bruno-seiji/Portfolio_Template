@@ -72,30 +72,30 @@ footer {
   margin-top: 4rem;
 }
 
-#trab1 {
+.trabs {
   width: 25rem;
   height: 18rem;
   position: relative;
 }
 
-#trab1 img {
+.trabs img {
   position: absolute;
   left: 0;
   width: 100%;
   height: 100%;
 }
 
-#trab1 div {
+.trabs div {
   position: absolute;
   width: 100%;
   height: 100%;
   opacity: 0;
-  text-align: center;
-  margin: auto;
-  padding: auto;
+  display: block;
+  align-items: center;
+  font-size: 2rem;
 }
 
-#trab1 div:hover {
+.trabs div:hover {
   opacity: 1;
   color: white;
   background: rgba(0, 0, 0, 0.2);
