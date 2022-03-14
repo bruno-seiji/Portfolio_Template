@@ -1,9 +1,11 @@
+/* ---------------------------- Geral ---------------------------*/
+
 header {
   width: 100%;
 }
 
 header section #nome {
-  font-family: 'Libre', sans-serif;
+  font-family: 'Libre Baskerville', serif;
   font-size: 2.5rem;
   margin-top: 2.5rem;
   padding-bottom: 2rem;
@@ -25,6 +27,16 @@ header section ul li a {
   color: black;
 }
 
+.wid {
+  width: 80%;
+}
+
+.mid_text {
+  text-align: center;
+}
+
+/* ---------------------------- Sobre ---------------------------*/
+
 #main_sobre {
   margin-left: auto;
   margin-right: auto;
@@ -42,12 +54,30 @@ header section ul li a {
   width: 70%;
 }
 
-#main_sobre img {border-radius: 50%;}
-
-.wid {
-  width: 80%;
+#main_sobre img {
+  border-radius: 50%;
+  width: 18rem;
 }
 
-.mid_text {
+footer {
   text-align: center;
+  padding-top: 5rem;
+}
+
+/* ---------------------------- Trabalhos ---------------------------*/
+#main_trab {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4rem;
+}
+
+#main_trab img {
+  width: 25rem;
+  height: 18rem;
+  margin: 1rem 1rem;
+}
+
+#main_trab img:hover {
+  filter: brightness(70%);
 }
