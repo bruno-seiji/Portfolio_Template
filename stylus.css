@@ -1,0 +1,53 @@
+header {
+  width: 100%;
+}
+
+header section #nome {
+  font-family: 'Libre', sans-serif;
+  font-size: 2.5rem;
+  margin-top: 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 0.124rem solid black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header section ul {
+  margin: 1rem auto 0;
+}
+
+header section ul li {
+  display: inline;
+  margin: 0 1rem;
+}
+header section ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+#main_sobre {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 4rem;
+}
+
+#main_sobre div,
+#main_sobre p {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#main_sobre p {
+  padding-top: 2rem;
+  width: 70%;
+}
+
+#main_sobre img {border-radius: 50%;}
+
+.wid {
+  width: 80%;
+}
+
+.mid_text {
+  text-align: center;
+}
