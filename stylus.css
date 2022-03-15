@@ -51,7 +51,7 @@ header section ul li a {
 
 #main_sobre p {
   padding-top: 2rem;
-  width: 70%;
+  width: 60%;
 }
 
 #main_sobre img {
@@ -116,8 +116,9 @@ footer {
 .info_cont {
   width: 50%;
   height: 100%;
-  background-color: aqua;
-  position: absolute;
+  background: rgba(0, 0, 0, 0.03);
+  display: flex;
+  justify-content: center;
 }
 
 .img_cont img {
@@ -125,12 +126,25 @@ footer {
   height: 100%;
   position: absolute;
   right: 0;
+  top: 0;
 }
 
-.info_cont p {
+.info_cont div {
+  margin-top: 10%;
+}
+
+.info_cont div p {
   font-family: 'Libre Baskerville', serif;
   font-size: 2rem;
-  position: absolute;
-  right: 50%;
-  top: 50%;
+  text-align: center;
+}
+
+.info_cont div ul {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1rem;
+  margin-top: 25%;
+}
+
+.info_cont div ul li {
+  margin: 1rem 0;
 }
