@@ -3,13 +3,13 @@
 
 ---
 
-#Objetivo
+## Objetivo
 
-  Aprimorar conhecimentos e estudo em HTML e CSS recriando um portifólio.
+  ### Aprimorar conhecimentos e estudo em HTML e CSS recriando um portifólio.
   
 ---
   
-#Copyrights
+## Copyrights
 
-  O template utilizado inspirado em templates desenvolvidos por Wix.com, Inc
+  ### O template utilizado inspirado em templates desenvolvidos por Wix.com, Inc
   
