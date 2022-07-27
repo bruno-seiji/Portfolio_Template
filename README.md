@@ -15,5 +15,5 @@ https://portfolio-template-seven.vercel.app
   
 ## Copyrights
 
-  ### O template utilizado inspirado em templates desenvolvidos por Wix.com, Inc
+  ### O template utilizado, inspirado em templates desenvolvidos por Wix.com, Inc
   
